@@ -1,0 +1,7 @@
+{
+  "name": "personalPage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
